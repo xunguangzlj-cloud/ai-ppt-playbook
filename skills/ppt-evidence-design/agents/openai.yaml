@@ -1,0 +1,4 @@
+interface:
+  display_name: "证据与逻辑驱动的PPT制作"
+  short_description: "从原始材料组织答辩与阅读型PPT，保留证据、控制密度并检查版式"
+  default_prompt: "请使用 $ppt-evidence-design，依据我的材料制作逻辑清楚、证据完整的PPT。"
