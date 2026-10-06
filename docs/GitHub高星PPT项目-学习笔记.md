@@ -1,5 +1,7 @@
 # GitHub 高星 PPT 制作项目 · 学习笔记
 
+> 历史研究记录：导出能力、固定成本、保真比例、中文run换行等规则已在[2026-10-06扩展调研](GitHub高星PPT项目-扩展调研-2026-10-06.md)中修正。执行时以当前技能与本轮版本证据为准；本轮未逐项重验此前运行声明。
+
 > 调研日期：2026-10-06 ｜ 方法：GitHub Search API 按星数扫描（ppt / pptx / ai presentation generator / markdown slides / banana slides 五路查询），深读 6 个头部项目 README
 > 星数为 GitHub API 当日返回值
 

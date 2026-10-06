@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-06",
+  "selection": "与演示制作、导出或材料解析直接相关；星数仅为筛选信号。16个>=1000星，模板编辑专用补充1个。",
+  "scope": "文档与指定源文件研究，未安装或运行这些第三方项目。阅读范围详见同日期扩展调研文档。",
+  "projects": [
+    {
+      "repo": "gitbrent/PptxGenJS",
+      "stars": 6231,
+      "branch": "master",
+      "license": "MIT",
+      "updated": "2025-11-28T20:17:14Z",
+      "archived": false,
+      "snapshot": "3c9ec1b687c174952166f6a34b5e87ebf69fa469",
+      "url": "https://github.com/gitbrent/PptxGenJS"
+    },
+    {
+      "repo": "singerla/pptx-automizer",
+      "stars": 246,
+      "branch": "main",
+      "license": "MIT",
+      "updated": "2026-10-03T03:50:58Z",
+      "archived": false,
+      "snapshot": "fd3fe0ae94ba7f58a28f60e8edc1e94514c5f367",
+      "url": "https://github.com/singerla/pptx-automizer"
+    },
+    {
+      "repo": "scanny/python-pptx",
+      "stars": 3550,
+      "branch": "master",
+      "license": "MIT",
+      "updated": "2024-08-07T17:36:44Z",
+      "archived": false,
+      "snapshot": "278b47b1dedd5b46ee84c286e77cdfb0bf4594be",
+      "url": "https://github.com/scanny/python-pptx"
+    },
+    {
+      "repo": "marp-team/marp-cli",
+      "stars": 3855,
+      "branch": "main",
+      "license": "MIT",
+      "updated": "2026-09-08T14:24:15Z",
+      "archived": false,
+      "snapshot": "ffc4128626cbc64965fe1cc805717c6d4438c384",
+      "url": "https://github.com/marp-team/marp-cli"
+    },
+    {
+      "repo": "slidevjs/slidev",
+      "stars": 48941,
+      "branch": "main",
+      "license": "MIT",
+      "updated": "2026-10-02T07:30:24Z",
+      "archived": false,
+      "snapshot": "73053ab2b9653ed475960301b56e1ce4439d9c75",
+      "url": "https://github.com/slidevjs/slidev"
+    },
+    {
+      "repo": "hakimel/reveal.js",
+      "stars": 72387,
+      "branch": "master",
+      "license": "MIT",
+      "updated": "2026-09-30T19:38:13Z",
+      "archived": false,
+      "snapshot": "e240e175232fa2de660a02bc0d7bf5f655b159bb",
+      "url": "https://github.com/hakimel/reveal.js"
+    },
+    {
+      "repo": "gnab/remark",
+      "stars": 13006,
+      "branch": "develop",
+      "license": "MIT",
+      "updated": "2024-06-19T09:27:31Z",
+      "archived": false,
+      "snapshot": "be58d65d59faca35f6ea3f55aeb8f65ef76305a3",
+      "url": "https://github.com/gnab/remark"
+    },
+    {
+      "repo": "quarto-dev/quarto-cli",
+      "stars": 6058,
+      "branch": "main",
+      "license": "NOASSERTION",
+      "updated": "2026-10-06T14:20:20Z",
+      "archived": false,
+      "snapshot": "789aca8fab557c24a1ade5f2e553635332e80178",
+      "url": "https://github.com/quarto-dev/quarto-cli"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": 188818,
+      "branch": "main",
+      "license": "MIT",
+      "updated": "2026-10-04T03:59:52Z",
+      "archived": false,
+      "snapshot": "4cc9fa17653d695d64fb9eee5b33d4de55ff84e8",
+      "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+      "repo": "anthropics/skills",
+      "stars": 179872,
+      "branch": "main",
+      "updated": "2026-10-05T13:46:45Z",
+      "archived": false,
+      "snapshot": "683bc88e56f3e09ba94f7055977f3d3aa499f202",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "repo": "pipipi-pikachu/PPTist",
+      "stars": 9369,
+      "branch": "master",
+      "license": "AGPL-3.0",
+      "updated": "2026-09-19T06:27:15Z",
+      "archived": false,
+      "snapshot": "82ecf10040ca8da67832f173b58d3baf5da59887",
+      "url": "https://github.com/pipipi-pikachu/PPTist"
+    },
+    {
+      "repo": "presenton/presenton",
+      "stars": 10966,
+      "branch": "main",
+      "license": "Apache-2.0",
+      "updated": "2026-10-05T12:28:04Z",
+      "archived": false,
+      "snapshot": "35bf44290f821323e003da854f78ffcb0e918167",
+      "url": "https://github.com/presenton/presenton"
+    },
+    {
+      "repo": "icip-cas/PPTAgent",
+      "stars": 5089,
+      "branch": "main",
+      "license": "MIT",
+      "updated": "2026-10-05T22:49:01Z",
+      "archived": false,
+      "snapshot": "833cda553b343be0e486a93b0b57cac962cdd566",
+      "url": "https://github.com/icip-cas/PPTAgent"
+    },
+    {
+      "repo": "Anionex/banana-slides",
+      "stars": 15693,
+      "branch": "main",
+      "license": "AGPL-3.0",
+      "updated": "2026-10-04T18:22:31Z",
+      "archived": false,
+      "snapshot": "8281ae908a265500a17869dca18be6cae733eb5e",
+      "url": "https://github.com/Anionex/banana-slides"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "stars": 57856,
+      "branch": "main",
+      "license": "MIT",
+      "updated": "2026-10-05T06:45:28Z",
+      "archived": false,
+      "snapshot": "2d72da616cf9fa40d4dcaf59fd4c980ecf534b7d",
+      "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "repo": "ningzimu/codex-ppt-skill",
+      "stars": 6364,
+      "branch": "main",
+      "license": "MIT",
+      "updated": "2026-10-02T13:41:19Z",
+      "archived": false,
+      "snapshot": "6d76c0eded7f8a8b0c4e304697e6f2bda7c408b2",
+      "url": "https://github.com/ningzimu/codex-ppt-skill"
+    },
+    {
+      "repo": "chuspeeism/dashi-ppt-skill",
+      "stars": 9180,
+      "branch": "main",
+      "license": "AGPL-3.0",
+      "updated": "2026-09-12T14:13:08Z",
+      "archived": false,
+      "snapshot": "21dc7e5fc8c3a0d7f6a94948153dd1ee954f4e64",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill"
+    }
+  ]
+}
